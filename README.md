@@ -138,8 +138,6 @@ Key things tackled so far: `sys.argv`, sets & dictionary operations, generator-b
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorojors&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorojors&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lorojors&theme=tokyonight&hide_border=true)
