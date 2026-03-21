@@ -26,6 +26,14 @@ This GitHub is mostly a reflection of my 42 journey: raw C projects, algorithmic
 
 ---
 
+## 🐍 Currently Working On
+
+I'm currently diving into **Python** through 42's Python modules — expanding beyond C into higher-level programming, scripting, and exploring what Python has to offer.
+
+> 🔨 *Work in progress — repos coming soon!*
+
+---
+
 ## 🛠️ Skills & Tools
 
 **From 42:**
@@ -33,6 +41,7 @@ This GitHub is mostly a reflection of my 42 journey: raw C projects, algorithmic
 - Memory management & pointers
 - Algorithm design & optimization
 - Norm-compliant, clean code
+- Python *(currently learning)*
 
 **From sysadmin work:**
 - Linux administration
@@ -44,8 +53,8 @@ This GitHub is mostly a reflection of my 42 journey: raw C projects, algorithmic
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorojors&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorojors&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
 
 ---
 
