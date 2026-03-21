@@ -17,6 +17,10 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/lorojors/Python-Modules-42Barcelona-rolorenz)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/lorojors)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/lorojors)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/lorojors)
+[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://github.com/lorojors)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://github.com/lorojors)
+[![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/lorojors)
 
 </div>
 
@@ -120,6 +124,9 @@ Key things tackled so far: `sys.argv`, sets & dictionary operations, generator-b
 - Networking — TCP/IP, routing, DNS, firewalls
 - Server management & monitoring
 - Infrastructure automation & troubleshooting
+- Active Directory — users, GPOs, domains, auth
+- Virtualisation — VMware & VirtualBox
+- Containerisation — Docker
 
     </td>
   </tr>
