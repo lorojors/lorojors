@@ -98,10 +98,21 @@ A full collection of the Python modules from the 42 Barcelona Common Core — bu
 | **00** | Basics, functions, I/O | ✅ Complete |
 | **01** | Data types, structures, factories | ✅ Complete |
 | **02** | Exception handling, custom errors, error hierarchy | ✅ Complete |
-| **03** | Collections, generators, command-line args, sets, dicts, 3D geometry | ✅ Complete |
-| **04–09** | Advanced topics & specialisations | 🔨 In progress |
+| **03** | Collections, command-line args, sets, dicts, 3D geometry | ✅ Complete |
+| **04** | File I/O — reading, writing, context managers, streams, exception handling | ✅ Complete |
+| **05–09** | Advanced topics & specialisations | 🔨 In progress |
 
-Key things tackled so far: `sys.argv`, sets & dictionary operations, generator-based data streams, exception hierarchies, and 3D coordinate geometry. The fun is just getting started. 🎯
+**Module 04 highlights** — all about file handling and I/O streams:
+
+| Exercise | Description |
+|---|---|
+| `ft_archive_creation.py` | Writing to files with `open()` and `write()` — creating and sealing a file from scratch |
+| `ft_ancient_text.py` | Reading from files with `open()` and `read()`, handling `FileNotFoundError` gracefully |
+| `ft_vault_security.py` | Using the `with` context manager for safe, automatic file open/close — both read and write |
+| `ft_crisis_response.py` | Advanced exception chaining — catching `FileNotFoundError` and `PermissionError`, re-raising with custom messages |
+| `ft_stream_management.py` | Working with `sys.stdout` and `sys.stderr` directly — differentiating standard output from error streams |
+
+Key things tackled so far: `sys.argv`, file I/O, context managers (`with`), `sys.stdout`/`sys.stderr`, exception chaining, sets & dictionary operations, and 3D coordinate geometry. The fun is just getting started. 🎯
 
 ---
 
@@ -137,6 +148,8 @@ Key things tackled so far: `sys.argv`, sets & dictionary operations, generator-b
 ## 📊 GitHub Stats
 
 <div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorojors&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorojors&layout=compact&theme=tokyonight&hide_border=true)
 
