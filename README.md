@@ -9,6 +9,7 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚══════╝
 ```
 
+
 ### `$ whoami`
 **Roger Lorenzo** — 42 Student · Sysadmin · Low-level C · Networking · Python
 
@@ -87,32 +88,47 @@ Here's where I stand on the curriculum 👇
 
 ### 🐍 Python — 42 Barcelona Modules
 
-> 📦 **10 modules · 60+ exercises · From zero to intermediate Python**
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>What it is</th>
+      <th>Key concepts</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/lorojors/Python-Modules-42Barcelona-rolorenz"><b>Python Modules 00–09</b></a></td>
+      <td>Full collection of 42 Barcelona Python modules — 60+ exercises from basics to advanced topics</td>
+      <td>Functions, OOP, file I/O, exception handling, collections, CLI args, generators</td>
+      <td>🔨 Modules 00–04 ✅ · 05–09 in progress</td>
+    </tr>
+  </tbody>
+</table>
 
-[![Python Modules Repo](https://img.shields.io/badge/Repo-Python--Modules--42Barcelona-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/lorojors/Python-Modules-42Barcelona-rolorenz)
+---
 
-A full collection of the Python modules from the 42 Barcelona Common Core — built exercise by exercise, topic by topic.
+### 🔥 Passion Projects
 
-| Module | Topics covered | Status |
-|---|---|---|
-| **00** | Basics, functions, I/O | ✅ Complete |
-| **01** | Data types, structures, factories | ✅ Complete |
-| **02** | Exception handling, custom errors, error hierarchy | ✅ Complete |
-| **03** | Collections, command-line args, sets, dicts, 3D geometry | ✅ Complete |
-| **04** | File I/O — reading, writing, context managers, streams, exception handling | ✅ Complete |
-| **05–09** | Advanced topics & specialisations | 🔨 In progress |
-
-**Module 04 highlights** — all about file handling and I/O streams:
-
-| Exercise | Description |
-|---|---|
-| `ft_archive_creation.py` | Writing to files with `open()` and `write()` — creating and sealing a file from scratch |
-| `ft_ancient_text.py` | Reading from files with `open()` and `read()`, handling `FileNotFoundError` gracefully |
-| `ft_vault_security.py` | Using the `with` context manager for safe, automatic file open/close — both read and write |
-| `ft_crisis_response.py` | Advanced exception chaining — catching `FileNotFoundError` and `PermissionError`, re-raising with custom messages |
-| `ft_stream_management.py` | Working with `sys.stdout` and `sys.stderr` directly — differentiating standard output from error streams |
-
-Key things tackled so far: `sys.argv`, file I/O, context managers (`with`), `sys.stdout`/`sys.stderr`, exception chaining, sets & dictionary operations, and 3D coordinate geometry. The fun is just getting started. 🎯
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>What it is</th>
+      <th>Key concepts</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/lorojors/Tornado-Viewer"><b>Tornado Viewer</b></a></td>
+      <td>Interactive viewer for visualizing tornado data</td>
+      <td>Data visualization, Web development</td>
+      <td>🚧 In development</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -142,18 +158,6 @@ Key things tackled so far: `sys.argv`, file I/O, context managers (`with`), `sys
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorojors&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorojors&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=lorojors&theme=tokyonight&hide_border=true)
 
 </div>
 
