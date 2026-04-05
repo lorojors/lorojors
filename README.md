@@ -102,7 +102,7 @@ Here's where I stand on the curriculum 👇
       <td><a href="https://github.com/lorojors/Python-Modules-42Barcelona-rolorenz"><b>Python Modules 00–09</b></a></td>
       <td>Full collection of 42 Barcelona Python modules — 60+ exercises from basics to advanced topics</td>
       <td>Functions, OOP, file I/O, exception handling, collections, CLI args, generators</td>
-      <td>🔨 Modules 00–04 ✅ · 05–09 in progress</td>
+      <td>🔨 Modules 00–04 ✅ · 09–10 in progress</td>
     </tr>
   </tbody>
 </table>
