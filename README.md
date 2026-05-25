@@ -29,11 +29,11 @@
 
 ## 🧑‍💻 About Me
 
-Hey! I'm **Roger**, a developer and infrastructure person in one.
+Hey! I'm **Roger**, developer and infrastructure person in one.
 
-By day I'm a certified **sysadmin** — keeping networks alive, servers humming, and infrastructure from catching fire 🔥. By night (and increasingly by day too), I'm deep in the **42 Barcelona** curriculum — a peer-to-peer, no-teacher, sink-or-swim school where you either figure it out or you don't. Spoiler: I'm figuring it out. 😤
+By day I'm a **sysadmin** — keeping networks alive, servers humming, and infrastructure from catching fire 🔥. By night (and increasingly by day too), I'm deep in the **42 Barcelona** curriculum: no teachers, no lectures, no fixed schedule. Just you, your peers, and a project that won't compile. You either figure it out or you don't. Spoiler: I'm figuring it out. 😤
 
-I'm genuinely passionate about what happens at the **intersection of low-level programming and networking** — understanding not just that things work, but exactly *why* and *how* they work at the byte level. From manual memory management in C to routing packets across a network, that's where I live.
+I care a lot about what happens at the **intersection of low-level programming and networking** — not just that things work, but exactly *why* and *how* they work at the byte level. Manual memory management in C, routing packets across a network — that's where I live.
 
 > *"The only way to learn to program is to write programs."* — Dennis Ritchie
 
@@ -166,14 +166,14 @@ Here's where I stand on the curriculum 👇
 ## 🔭 What's Next
 
 - 🔨 Completing Python modules 04–09 at 42 Barcelona
-- 📡 Diving deeper into networking fundamentals and protocol implementation
-- 🧠 More 42 Common Core projects on the horizon
+- 📡 Networking fundamentals and protocol implementation
+- 🧠 More 42 Common Core projects coming
 
 ---
 
 ## 📬 Get in Touch
 
-I'm always happy to connect with fellow 42 students, sysadmins, or anyone who enjoys talking about low-level code or networking. Reach out! 🫡
+Always happy to connect with fellow 42 students, sysadmins, or anyone who likes talking about low-level code or networking. 🫡
 
 [![GitHub](https://img.shields.io/badge/GitHub-lorojors-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lorojors)
 
