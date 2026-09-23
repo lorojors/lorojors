@@ -1,32 +1,48 @@
 # Hi, I'm Roger
 
-Junior Software Engineer focused on the intersection of **software, systems, and infrastructure**.
+**Full-Stack Developer in training · Systems & Infrastructure**
 
-I like building things, breaking them, figuring out why they broke, and understanding what is happening underneath the abstraction.
+I’m a developer with a strong background in systems and infrastructure, currently focused on building software while exploring what happens underneath the application layer.
 
-[GitHub](https://github.com/lorojors) · [LinkedIn](https://www.linkedin.com/in/roger-lorenzo-gomez/)
+I enjoy working across the stack — from APIs and frontend applications to Linux systems, networking, virtualization, and infrastructure.
+
+[LinkedIn](https://www.linkedin.com/in/roger-lorenzo-gomez/) · [GitHub](https://github.com/lorojors)
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Development
+
 `C` `C++` `Python` `Java` `TypeScript` `JavaScript`
 
-### Software
-`Spring Boot` `REST APIs` `Node.js` `React` `Algorithms & Data Structures` `OOP` `Clean Code`
+`Spring Boot` `REST APIs` `Node.js` `React`
+
+Algorithms & Data Structures · OOP · Clean Code · Debugging
 
 ### Systems & Infrastructure
-`Linux` `Windows` `Docker` `VMware` `Active Directory` `Virtualization` `TCP/IP` `LAN/WAN` `VPN` `Firewalls`
 
-### Infrastructure & Observability
-`DRBD` `Pacemaker` `Corosync` `IsardVDI` `Grafana` `Prometheus`
+`Linux` `Windows` `Docker` `VMware` `Active Directory`
+
+`TCP/IP` `LAN/WAN` `VPN` `Firewalls` `Virtualization`
+
+### Infrastructure & Monitoring
+
+`DRBD` `Pacemaker` `Corosync` `IsardVDI`
+
+`Grafana` `Prometheus`
 
 ### AI & Automation
-`n8n` `Ollama` `LLMs` `RAG` `Python` `Database Integrations`
+
+`Python` `n8n` `Ollama` `LLMs` `RAG`
+
+Database integrations · AI automation
 
 ### Other
-`SQL` `Git` `GitHub` · Cybersecurity · OSINT · CTFs · Web Security · Reverse Engineering
+
+`SQL` `Git` `GitHub`
+
+Cybersecurity · OSINT · CTFs · Web Security · Reverse Engineering
 
 ---
 
@@ -34,57 +50,58 @@ I like building things, breaking them, figuring out why they broke, and understa
 
 ### High Availability IsardVDI Infrastructure
 
-A two-server high-availability infrastructure project designed around virtual desktop infrastructure.
+A two-server high-availability infrastructure project combining virtualization, distributed storage, failover, and monitoring.
 
 **Stack:** Linux · IsardVDI · Docker · DRBD · Pacemaker · Corosync · Grafana · Prometheus
 
-- High-availability architecture and server failover
-- Distributed storage with DRBD
-- Virtual desktop infrastructure with IsardVDI
-- Service orchestration with Pacemaker and Corosync
-- Monitoring and observability with Grafana and Prometheus
-- Infrastructure management and automation
+* High-availability infrastructure
+* Server failover
+* Distributed storage with DRBD
+* Virtual desktop infrastructure
+* Service orchestration with Pacemaker & Corosync
+* Infrastructure monitoring with Grafana & Prometheus
 
 ---
 
 ### Full-Stack Weather Application
 
-A full-stack weather application built around real-time weather data, interactive maps, and severe-weather information.
+A full-stack weather application built around real-time weather data and interactive geographic visualizations.
 
 **Stack:** TypeScript · React · Node.js · Leaflet · REST APIs · NWS API
 
-- Interactive weather maps
-- US weather data and live radar
-- Severe weather alerts
-- Dynamic alert information
-- Weather statistics and detailed data
-- CSV data processing
+* Interactive weather maps
+* US weather data
+* Live radar
+* Severe weather alerts
+* Dynamic alert information
+* Weather statistics
+* CSV data processing
 
 ---
 
-### AI / RAG Experiments
+### AI & RAG Experiments
 
-Personal experiments exploring how LLMs can be integrated with automation and project-specific knowledge.
+Personal experiments exploring practical applications of LLMs, automation, and retrieval-augmented generation.
 
-**Stack:** n8n · Ollama · LLMs · RAG · Python · Databases
+**Stack:** n8n · Ollama · Python · LLMs · RAG · Databases
 
-Current work includes an AI-powered assistant built around infrastructure and project documentation.
+One example is an AI-powered assistant built around infrastructure and project documentation.
 
-These are **personal and experimental projects**, focused on learning and exploring practical AI automation rather than production AI systems.
+These are personal and experimental projects focused on learning and exploring AI automation.
 
 ---
 
 ## Currently Exploring
 
-- Backend engineering
-- Linux systems
-- Cloud & DevOps
-- Infrastructure automation
-- Distributed systems
-- Networking
-- AI / RAG
-- Cybersecurity
-- System design
+* Full-stack & backend development
+* Linux systems
+* Cloud & DevOps
+* Infrastructure automation
+* Distributed systems
+* Networking
+* AI / RAG
+* Cybersecurity
+* System design
 
 ---
 
@@ -99,6 +116,6 @@ These are **personal and experimental projects**, focused on learning and explor
 
 ## Connect
 
-- GitHub: [@lorojors](https://github.com/lorojors)
-- LinkedIn: [roger-lorenzo-gomez](https://www.linkedin.com/in/roger-lorenzo-gomez/)
-- Based in Catalonia, Spain
+[LinkedIn](https://www.linkedin.com/in/roger-lorenzo-gomez/) · [GitHub](https://github.com/lorojors)
+
+Catalonia, Spain
