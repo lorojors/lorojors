@@ -1,186 +1,104 @@
-<div align="center">
+# Hi, I'm Roger
 
-```
-██████╗  ██████╗ ██╗      ██████╗ ██████╗ ███████╗███╗   ██╗███████╗
-██╔══██╗██╔═══██╗██║     ██╔═══██╗██╔══██╗██╔════╝████╗  ██║╚══███╔╝
-██████╔╝██║   ██║██║     ██║   ██║██████╔╝█████╗  ██╔██╗ ██║  ███╔╝
-██╔══██╗██║   ██║██║     ██║   ██║██╔══██╗██╔══╝  ██║╚██╗██║ ███╔╝
-██║  ██║╚██████╔╝███████╗╚██████╔╝██║  ██║███████╗██║ ╚████║███████╗
-╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚══════╝
-```
+Junior Software Engineer focused on the intersection of **software, systems, and infrastructure**.
 
+I like building things, breaking them, figuring out why they broke, and understanding what is happening underneath the abstraction.
 
-### `$ whoami`
-**Roger Lorenzo** — 42 Student · Sysadmin · Low-level C · Networking · Python
-
-[![42 Badge](https://img.shields.io/badge/42-Barcelona-000000?style=for-the-badge&logo=42&logoColor=white)](https://42barcelona.com)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/lorojors)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/lorojors/Python-Modules-42Barcelona-rolorenz)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/lorojors)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/lorojors)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/lorojors)
-[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://github.com/lorojors)
-[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://github.com/lorojors)
-[![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/lorojors)
-
-</div>
+[GitHub](https://github.com/lorojors) · [LinkedIn](https://www.linkedin.com/in/roger-lorenzo-gomez/)
 
 ---
 
-## 🧑‍💻 About Me
+## Tech Stack
 
-Hey! I'm **Roger**, developer and infrastructure person in one.
+### Languages
+`C` `C++` `Python` `Java` `TypeScript` `JavaScript`
 
-By day I'm a **sysadmin** — keeping networks alive, servers humming, and infrastructure from catching fire 🔥. By night (and increasingly by day too), I'm deep in the **42 Barcelona** curriculum: no teachers, no lectures, no fixed schedule. Just you, your peers, and a project that won't compile. You either figure it out or you don't. Spoiler: I'm figuring it out. 😤
+### Software
+`Spring Boot` `REST APIs` `Node.js` `React` `Algorithms & Data Structures` `OOP` `Clean Code`
 
-I care a lot about what happens at the **intersection of low-level programming and networking** — not just that things work, but exactly *why* and *how* they work at the byte level. Manual memory management in C, routing packets across a network — that's where I live.
+### Systems & Infrastructure
+`Linux` `Windows` `Docker` `VMware` `Active Directory` `Virtualization` `TCP/IP` `LAN/WAN` `VPN` `Firewalls`
 
-> *"The only way to learn to program is to write programs."* — Dennis Ritchie
+### Infrastructure & Observability
+`DRBD` `Pacemaker` `Corosync` `IsardVDI` `Grafana` `Prometheus`
 
----
+### AI & Automation
+`n8n` `Ollama` `LLMs` `RAG` `Python` `Database Integrations`
 
-## 🏫 42 Barcelona — The Journey
-
-42 is unlike any other school. No teachers. No lectures. No fixed schedule. Just you, your peers, and a project that won't compile. It builds engineers who know how to learn anything — and that's the real skill.
-
-Here's where I stand on the curriculum 👇
-
----
-
-## 🗂️ Projects
-
-### ⚙️ C — Core Curriculum
-
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>What it is</th>
-      <th>Key concepts</th>
-      <th>Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/lorojors/ft_printf"><b>ft_printf</b></a></td>
-      <td>Full reimplementation of C's <code>printf()</code> from scratch</td>
-      <td>Variadic args, base conversion, format parsing</td>
-      <td>✅ Done</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/lorojors/get_next_line"><b>get_next_line</b></a></td>
-      <td>Reads one line at a time from any file descriptor. Supports multiple fds simultaneously (bonus)</td>
-      <td>Static variables, <code>read()</code>, buffer management, multiple fd handling</td>
-      <td>✅ Done + Bonus</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/lorojors/Push_Swap_Rolorenz_Yemirosh"><b>push_swap</b></a> 🤝</td>
-      <td>Sort integers using only two stacks and 11 operations, in as few moves as possible. Adaptive algorithm: simple sort, chunk sort, and radix sort depending on input size</td>
-      <td>Algorithm design, complexity, linked lists, adaptive dispatch</td>
-      <td>✅ Done (w/ <a href="https://github.com/yemirosh">yemirosh</a>)</td>
-    </tr>
-  </tbody>
-</table>
-
-> 🔧 **libft** (my own C standard library reimplementation) lives inside the projects that depend on it.
+### Other
+`SQL` `Git` `GitHub` · Cybersecurity · OSINT · CTFs · Web Security · Reverse Engineering
 
 ---
 
-### 🐍 Python — 42 Barcelona Modules
+## Featured Projects
 
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>What it is</th>
-      <th>Key concepts</th>
-      <th>Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/lorojors/Python-Modules-42Barcelona-rolorenz"><b>Python Modules 00–09</b></a></td>
-      <td>Full collection of 42 Barcelona Python modules — 60+ exercises from basics to advanced topics</td>
-      <td>Functions, OOP, file I/O, exception handling, collections, CLI args, generators</td>
-      <td>🔨 Modules 00–04 ✅ · 09–10 in progress</td>
-    </tr>
-  </tbody>
-</table>
+### High Availability IsardVDI Infrastructure
+
+A two-server high-availability infrastructure project designed around virtual desktop infrastructure.
+
+**Stack:** Linux · IsardVDI · Docker · DRBD · Pacemaker · Corosync · Grafana · Prometheus
+
+- High-availability architecture and server failover
+- Distributed storage with DRBD
+- Virtual desktop infrastructure with IsardVDI
+- Service orchestration with Pacemaker and Corosync
+- Monitoring and observability with Grafana and Prometheus
+- Infrastructure management and automation
 
 ---
 
-### 🔥 Passion Projects
+### Full-Stack Weather Application
 
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>What it is</th>
-      <th>Key concepts</th>
-      <th>Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/lorojors/Tornado-Viewer"><b>Tornado Viewer</b></a></td>
-      <td>Interactive viewer for visualizing tornado data</td>
-      <td>Data visualization, Web development</td>
-      <td>🚧 In development</td>
-    </tr>
-  </tbody>
-</table>
+A full-stack weather application built around real-time weather data, interactive maps, and severe-weather information.
+
+**Stack:** TypeScript · React · Node.js · Leaflet · REST APIs · NWS API
+
+- Interactive weather maps
+- US weather data and live radar
+- Severe weather alerts
+- Dynamic alert information
+- Weather statistics and detailed data
+- CSV data processing
 
 ---
 
-## 🛠️ Skills & Stack
+### AI / RAG Experiments
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+Personal experiments exploring how LLMs can be integrated with automation and project-specific knowledge.
 
-**💻 Programming**
-- C — memory management, pointers, data structures, systems programming
-- Python — scripting, OOP, exception handling, generators, data processing
-- Bash — shell scripting, automation, cron, pipelines
+**Stack:** n8n · Ollama · LLMs · RAG · Python · Databases
 
-    </td>
-    <td valign="top" width="50%">
+Current work includes an AI-powered assistant built around infrastructure and project documentation.
 
-**🖥️ Sysadmin & Infrastructure**
-- Linux administration (Debian/Ubuntu)
-- Networking — TCP/IP, routing, DNS, firewalls
-- Server management & monitoring
-- Infrastructure automation & troubleshooting
-- Active Directory — users, GPOs, domains, auth
-- Virtualisation — VMware & VirtualBox
-- Containerisation — Docker
-
-    </td>
-  </tr>
-</table>
-
-</div>
+These are **personal and experimental projects**, focused on learning and exploring practical AI automation rather than production AI systems.
 
 ---
 
-## 🔭 What's Next
+## Currently Exploring
 
-- 🔨 Completing Python modules 04–09 at 42 Barcelona
-- 📡 Networking fundamentals and protocol implementation
-- 🧠 More 42 Common Core projects coming
-
----
-
-## 📬 Get in Touch
-
-Always happy to connect with fellow 42 students, sysadmins, or anyone who likes talking about low-level code or networking. 🫡
-
-[![GitHub](https://img.shields.io/badge/GitHub-lorojors-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lorojors)
+- Backend engineering
+- Linux systems
+- Cloud & DevOps
+- Infrastructure automation
+- Distributed systems
+- Networking
+- AI / RAG
+- Cybersecurity
+- System design
 
 ---
 
-<div align="center">
+## GitHub Activity
 
-*Built from scratch. Debugged at 2am. Norminette approved.* 🖤
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lorojors&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorojors&layout=compact&hide_border=true&theme=transparent" height="165" />
+</p>
 
-</div>
+---
+
+## Connect
+
+- GitHub: [@lorojors](https://github.com/lorojors)
+- LinkedIn: [roger-lorenzo-gomez](https://www.linkedin.com/in/roger-lorenzo-gomez/)
+- Based in Catalonia, Spain
