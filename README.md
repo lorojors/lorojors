@@ -34,15 +34,11 @@ Algorithms & Data Structures · OOP · Clean Code · Debugging
 
 ### AI & Automation
 
-`Python` `n8n` `Ollama` `LLMs` `RAG`
-
-Database integrations · AI automation
+`Python` `n8n` `Ollama` `LLMs` `RAG` `Database integrations` `AI automation`
 
 ### Other
 
-`SQL` `Git` `GitHub`
-
-Cybersecurity · OSINT · CTFs · Web Security · Reverse Engineering
+`SQL` `Git` `GitHub` `Cybersecurity` `OSINT` `CTFs` `Web Security` `Reverse Engineering`
 
 ---
 
